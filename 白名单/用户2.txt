@@ -2,6 +2,12 @@ repeat
     task.wait()
 until game.Players.LocalPlayer.Character~=nil;
 local a=tostring(game.Players.LocalPlayer.Character);
+game.StarterGui:SetCore("SendNotification", {
+		Title = "白";
+		Text = "验证白名单中...";
+		Icon = nil;
+		Duration = 5
+	})
 if a=="hdjowhxi"then
 _G.IIIIlllIIIIIIllll=true
 elseif a=="xdtxjh"then
