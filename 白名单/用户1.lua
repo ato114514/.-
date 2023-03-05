@@ -1,6 +1,3 @@
-repeat
-    task.wait()
-until game.Players.LocalPlayer.Character~=nil;
 
 local a=tostring(game.Players.LocalPlayer.Character);
 function kick()
