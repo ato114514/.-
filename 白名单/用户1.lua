@@ -13,22 +13,7 @@ elseif tostring(game.Players.LocalPlayer.Character.Humanoid.Parent)~=a then
 kick()
 return
 end
-local Response
-if syn then  
-    Response = syn.request({
-      Url = "https://www.roblox.com/users/".. game.Players.LocalPlayer.UserId .."/profile",
-      Method = "GET"
-    })
-    else
-     Response = request({
-        Url = "https://www.roblox.com/users".. game.Players.LocalPlayer.UserId .."/profile",
-        Method = "GET"
-    })
-    
-end
-if string.sub(Response.Body, string.find(Response.Body,a)) ~=a then
-  kick()
-end
+
    loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIlllIlIIIllllllIIIllllllIII/.-/main/%E7%99%BD%E5%90%8D%E5%8D%95/%E7%94%A8%E6%88%B72.txt'),true))()
 
  _G.IIIIlllIIIIIIllll=false
