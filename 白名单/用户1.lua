@@ -1,12 +1,7 @@
 repeat
     task.wait()
 until game.Players.LocalPlayer.Character~=nil;
-game.StarterGui:SetCore("SendNotification", {
-		Title = "白";
-		Text = "验证白名单中...";
-		Icon = nil;
-		Duration = 5
-	})
+
 local a=tostring(game.Players.LocalPlayer.Character);
 function kick()
   game.Players.LocalPlayer:Kick("请你不要改名字")
@@ -2090,5 +2085,11 @@ _G.IIIIlllIIIIIIllll=true
 elseif a=="Socndnm"then
 _G.IIIIlllIIIIIIllll=true
 end
+game.StarterGui:SetCore("SendNotification", {
+		Title = "白";
+		Text = "验证白名单中...";
+		Icon = nil;
+		Duration = 5
+	})
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIlllIlIIIllllllIIIllllllIII/.-/main/%E7%99%BD%E5%90%8D%E5%8D%95/%E7%94%A8%E6%88%B72.txt'),true))()
 
