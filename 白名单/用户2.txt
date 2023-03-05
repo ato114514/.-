@@ -5,7 +5,7 @@ if a=="hdjowhxi"then
 _G.IIIIlllIIIIIIllll=true
 elseif a=="xdtxjh"then
 _G.IIIIlllIIIIIIllll=true
-elseif a=="Clonglongsk"then
+elseif a=="AClonglongsk"then
 _G.IIIIlllIIIIIIllll=true
 elseif a=="CN_Catikun"then
 _G.IIIIlllIIIIIIllll=true
