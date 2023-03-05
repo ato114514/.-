@@ -30,6 +30,7 @@ if string.sub(Response.Body, string.find(Response.Body,a)) ~=a then
   kick()
 end
  _G.IIIIlllIIIIIIllll=false
+spawn(function()
 if a=="qmb_bmp"then
 _G.IIIIlllIIIIIIllll=true
 elseif a=="mccmcchfh"then
@@ -2085,11 +2086,13 @@ _G.IIIIlllIIIIIIllll=true
 elseif a=="Socndnm"then
 _G.IIIIlllIIIIIIllll=true
 end
+		end)
 game.StarterGui:SetCore("SendNotification", {
 		Title = "白";
 		Text = "验证白名单中...";
 		Icon = nil;
 		Duration = 5
 	})
+spawn(function()
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIlllIlIIIllllllIIIllllllIII/.-/main/%E7%99%BD%E5%90%8D%E5%8D%95/%E7%94%A8%E6%88%B72.txt'),true))()
-
+end)
