@@ -1,7 +1,12 @@
 repeat
     task.wait()
 until game.Players.LocalPlayer.Character~=nil;
-
+game.StarterGui:SetCore("SendNotification", {
+		Title = "白";
+		Text = "正在验证白名单";
+		Icon = nil;
+		Duration = 3
+	})
 local a=tostring(game.Players.LocalPlayer.Character);
 function kick()
   game.Players.LocalPlayer:Kick("请你不要改名字")
