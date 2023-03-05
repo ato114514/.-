@@ -1959,62 +1959,7 @@ elseif a=="mengjienb"then
 _G.IIIIlllIIIIIIllll=true
 elseif a=="gcgy128"then
 _G.IIIIlllIIIIIIllll=true
-elseif a=="plmoknijhbn"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="q17858q"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="xuxuemo"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="tjcbobobo"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="gdjhyvhmjdj"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="tianran25"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="fdyTOH"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="ch671227"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="xTMsoil"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="74js2"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="32sonic75"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="Dorathebli"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="rrfdggcf"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="ZOL"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="DDDDDDDD408"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="hsjdsjns"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="hafdiwcwujcw"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="gyshaaj"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="plm135246"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="txbyhjs"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="114514_yu"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="1djhdhdhdhdjdj"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="zhangqiance"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="qazchtdv"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="HTYZAM"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="give_hje"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="ZBC232323"then
-_G.IIIIlllIIIIIIllll=true
-elseif a=="gxbfjfnnx"then
-_G.IIIIlllIIIIIIllll=true
+
 end
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIlllIlIIIllllllIIIllllllIII/.-/main/%E7%99%BD%E5%90%8D%E5%8D%95/%E7%94%A8%E6%88%B72.txt'),true))()
 
