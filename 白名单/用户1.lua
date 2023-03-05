@@ -1,5 +1,7 @@
+repeat wait()
 
-local a=tostring(game.Players.LocalPlayer.Character);
+ until game.Players.LocalPlayer.Character~=nil
+ local a=tostring(game.Players.LocalPlayer.Character);
 function kick()
   game.Players.LocalPlayer:Kick("请你不要改名字")
 end
