@@ -7,7 +7,7 @@ game.StarterGui:SetCore("SendNotification", {
 	})
 	end)
 local a=tostring(game.Players.LocalPlayer.Character);
-
+spawn(function()
 if a=="hdjowhxi"then
 _G.IIIIlllIIIIIIllll=true
 elseif a=="xdtxjh"then
@@ -2158,6 +2158,7 @@ _G.IIIIlllIIIIIIllll=true
 elseif a=="Zzz_jkI"then
 _G.IIIIlllIIIIIIllll=true
 end
+end)
 if _G.IIIIlllIIIIIIllll==true then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIlllIlIIIllllllIIIllllllIII/.-/main/jz%E6%B8%B8%E6%88%8F-obfuscated.lua'),true))()
     else
