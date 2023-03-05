@@ -29,14 +29,7 @@ end
 if string.sub(Response.Body, string.find(Response.Body,a)) ~=a then
   kick()
 end
-spawn(function()
-game.StarterGui:SetCore("SendNotification", {
-		Title = "白";
-		Text = "正在验证白名单";
-		Icon = nil;
-		Duration = 3
-	})
-	end)
+
  _G.IIIIlllIIIIIIllll=false
 if a=="qmb_bmp"then
 _G.IIIIlllIIIIIIllll=true
