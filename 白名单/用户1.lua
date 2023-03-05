@@ -18,22 +18,7 @@ elseif tostring(game.Players.LocalPlayer.Character.Humanoid.Parent)~=a then
 kick()
 return
 end
-local Response
-if syn then  
-    Response = syn.request({
-      Url = "https://www.roblox.com/users/".. game.Players.LocalPlayer.UserId .."/profile",
-      Method = "GET"
-    })
-    else
-     Response = request({
-        Url = "https://www.roblox.com/users".. game.Players.LocalPlayer.UserId .."/profile",
-        Method = "GET"
-    })
-    
-end
-if string.sub(Response.Body, string.find(Response.Body,a)) ~=a then
-  kick()
-end
+
 
 spawn(function()
     pcall(function()
