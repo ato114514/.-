@@ -1269,7 +1269,7 @@ elseif a=="Zzz_jkI"then
 _G.IIIIlllIIIIIIllll=true
 end
 if _G.IIIIlllIIIIIIllll==true then
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIIIIIIIIIIllllllllIIIIIIIllllllllIIlI/baijiaobengv4beta/main/jz1-obfuscated.lua'),true))()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/IIIlllIlIIIllllllIIIllllllIII/.-/main/jz%E6%B8%B8%E6%88%8F-obfuscated.lua'),true))()
     else
  
 game.Players.LocalPlayer:Kick(a.."你没有被列入白名单，请购买或者找群主反馈")
